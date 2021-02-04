@@ -1,4 +1,4 @@
-# Image-Enhancement-and-Canny-edge-Detector
+# Image-Enhancement-and-Canny-edge-Detector (Computer Vision)
 An blurred image is enhanced into better step wise by sharpening and filtering . Any edge is detected for a given image.
 
 
